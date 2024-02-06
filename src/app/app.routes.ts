@@ -1,7 +1,7 @@
 import { Routes, RouterModule } from '@angular/router';
 import { NgModule} from "@angular/core";
 import { GalleryComponent} from "./gallery/gallery.component";
-import {AppComponent} from "./app.component";
+
 import {HomeComponent} from "./home/home.component";
 import {NewsComponent} from "./news/news.component";
 import {HoneyComponent} from "./honey/honey.component";
